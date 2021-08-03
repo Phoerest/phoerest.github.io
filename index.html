@@ -412,7 +412,7 @@
 						<label for="rgbColor" class="lP0">RGB:</label>
 						<button onclick="switchColor(1)" class="bP0">Next</button>
 						<input type="text" id="rgbColor" class="iT0" value="0, 0, 0" onchange="changeColorString('RGB', this.value)" />
-						<label for="colorSelect0" class="colorPreview"></label>
+						<label for="colorSelect0" class="colorPreview" aria-label="Choose color"></label>
 						<input type="color" id="colorSelect0" class="colorInput" value="#000000" onchange="changeColorString('HEX', this.value)" />
 					</div>
 					<div id="color1" class="colorRanges">
@@ -437,7 +437,7 @@
 						<label for="hslColor" class="lP0">HSL:</label>
 						<button onclick="switchColor(2)" class="bP0">Next</button>
 						<input type="text" id="hslColor" class="iT0" value="0, 50%, 0%" onchange="changeColorString('HSL', this.value)" />
-						<label for="colorSelect1" class="colorPreview"></label>
+						<label for="colorSelect1" class="colorPreview" aria-label="Choose color"></label>
 						<input type="color" id="colorSelect1" class="colorInput" value="#000000" onchange="changeColorString('HEX', this.value)" />
 					</div>
 					<div id="color2" class="colorRanges">
@@ -462,7 +462,7 @@
 						<label for="hexColor" class="lP0">Hex:</label>
 						<button onclick="switchColor(0)" class="bP0">Next</button>
 						<input type="text" id="hexColor" class="iT0" value="#000000" onchange="changeColorString('HEX', this.value)" />
-						<label for="colorSelect2" class="colorPreview"></label>
+						<label for="colorSelect2" class="colorPreview" aria-label="Choose color"></label>
 						<input type="color" id="colorSelect2" class="colorInput" value="#000000" onchange="changeColorString('HEX', this.value)" />
 					</div>
 				</div>
@@ -495,7 +495,7 @@
 					<input type="number" id="unit2Input" value="77" onchange="convertUnit('unit2', 'unit1', this.value)" />
 				</div>
 				<div class="project" id="project8">
-					<textArea id="searchText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sapien nunc, dignissim nec ipsum quis, suscipit mattis purus. Nullam non nulla et arcu blandit viverra. In eget pulvinar augue. Praesent euismod dolor est, et porta nisl condimentum pulvinar. Morbi imperdiet tristique imperdiet. Maecenas posuere, orci a convallis malesuada, lectus odio laoreet est, in luctus dui dolor non ipsum. Aliquam vitae magna in risus feugiat interdum eget venenatis ligula. Aliquam facilisis rutrum arcu, in tempor massa viverra vel.</textArea>
+					<textArea id="searchText" aria-label="Enter a text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sapien nunc, dignissim nec ipsum quis, suscipit mattis purus. Nullam non nulla et arcu blandit viverra. In eget pulvinar augue. Praesent euismod dolor est, et porta nisl condimentum pulvinar. Morbi imperdiet tristique imperdiet. Maecenas posuere, orci a convallis malesuada, lectus odio laoreet est, in luctus dui dolor non ipsum. Aliquam vitae magna in risus feugiat interdum eget venenatis ligula. Aliquam facilisis rutrum arcu, in tempor massa viverra vel.</textArea>
 					<label for="searchInput">Enter search term:</label>
 					<input type="text" id="searchInput" value="ipsum" />
 					<label for="replaceInput">Enter replace term:</label>
