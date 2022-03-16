@@ -28,4 +28,4 @@ My portfolio: https://phoerest.github.io
 My email: [gp1me7g@gmail.com](mailto:gp1me7g@gmail.com)  
 Contact form: https://phoerest.github.io/#contact
 
-### Phoerest 2021 © All rights reserved.
+### Baraa Darwish 2021 © All rights reserved.
