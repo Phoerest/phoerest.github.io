@@ -1,1 +1,1 @@
-Sitemap: https://phoerest.github.io/sitemap.xml
+Sitemap: https://phoerest.github.io/govsa/sitemap.xml
