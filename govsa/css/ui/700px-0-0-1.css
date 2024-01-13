@@ -1,0 +1,1 @@
+section h2>a:focus,article h2>a:focus{outline-offset:.6vw;outline-width:.8vw}.main-button:focus{outline-offset:.6vw;outline-width:.2vw}nav a.main-button:nth-child(1):hover,nav a.main-button:nth-child(1):focus{transform:skew(-20deg) translateY(11vw) translateX(6vw)}nav menu a:focus{outline-offset:.6vw;outline-width:.2vw}
