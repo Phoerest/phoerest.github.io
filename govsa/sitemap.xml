@@ -2,19 +2,19 @@
 	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 		xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <lastmod>2024-01-14</lastmod>
+        <lastmod>2024-01-17</lastmod>
         <loc>https://phoerest.github.io/govsa/contact/index.html</loc>
         <xhtml:link
             rel="alternate"
-            hreflang="en"
-            href="https://phoerest.github.io/govsa/en/contact/index.html"/>
+            hreflang="ar"
+            href="https://phoerest.github.io/govsa/ar/contact/index.html"/>
 	</url>
     <url>
-        <lastmod>2024-01-14</lastmod>
+        <lastmod>2024-01-17</lastmod>
         <loc>https://phoerest.github.io/govsa/index.html</loc>
         <xhtml:link
             rel="alternate"
-            hreflang="en"
-            href="https://phoerest.github.io/govsa/en/index.html"/>
+            hreflang="ar"
+            href="https://phoerest.github.io/govsa/ar/index.html"/>
 	</url>
 </urlset>
